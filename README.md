@@ -1,2 +1,5 @@
 # hello-world
-trial
+
+First time in GitHub
+
+Hello!
